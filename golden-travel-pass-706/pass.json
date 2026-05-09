@@ -40,14 +40,9 @@
     ]
   },
   "logoText": "Golden Travel Pass 706",
-  "barcodes": [
-    {
-      "format": "PKBarcodeFormatCode128",
-      "message": "STUDIO-GUEST-4B",
-      "messageEncoding": "iso-8859-1",
-      "altText": "STUDIO-GUEST-4B"
-    }
-  ],
+  "relevantDate": "2026-05-09T23:21:00.000Z",
+  "expirationDate": "2026-05-11T02:21:00.000Z",
+  "sharingProhibited": true,
   "webServiceURL": "https://example.invalid/passkit",
   "authenticationToken": "0000000000000000",
   "locations": [
