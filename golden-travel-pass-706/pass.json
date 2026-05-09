@@ -42,7 +42,7 @@
   "logoText": "Golden Travel Pass 706",
   "barcodes": [
     {
-      "format": "PKBarcodeFormatQR",
+      "format": "PKBarcodeFormatCode128",
       "message": "STUDIO-GUEST-4B",
       "messageEncoding": "iso-8859-1",
       "altText": "STUDIO-GUEST-4B"
