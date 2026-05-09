@@ -52,5 +52,10 @@
       "latitude": 41.956157,
       "relevantText": "helloo"
     }
+  ],
+  "beacons": [
+    {
+      "proximityUUID": "686a3135-6163-3265-3832-393331626232"
+    }
   ]
 }
