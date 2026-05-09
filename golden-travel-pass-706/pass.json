@@ -49,5 +49,12 @@
     }
   ],
   "webServiceURL": "https://example.invalid/passkit",
-  "authenticationToken": "0000000000000000"
+  "authenticationToken": "0000000000000000",
+  "locations": [
+    {
+      "longitude": 21.441416,
+      "latitude": 41.994045,
+      "relevantText": "helloo"
+    }
+  ]
 }
