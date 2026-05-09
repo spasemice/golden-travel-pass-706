@@ -1,0 +1,53 @@
+{
+  "formatVersion": 1,
+  "passTypeIdentifier": "pass.mk.local",
+  "teamIdentifier": "9733K94JUG",
+  "serialNumber": "F13561629D4A812F",
+  "organizationName": "Golden Travel Pass 706",
+  "description": "Apple Wallet pass project",
+  "foregroundColor": "rgb(255, 255, 255)",
+  "backgroundColor": "rgb(17, 24, 39)",
+  "labelColor": "rgb(156, 163, 175)",
+  "generic": {
+    "primaryFields": [
+      {
+        "key": "p1",
+        "label": "ACCESS",
+        "value": "Guest"
+      }
+    ],
+    "secondaryFields": [
+      {
+        "key": "s1",
+        "label": "ROOM",
+        "value": "4B"
+      }
+    ],
+    "auxiliaryFields": [
+      {
+        "key": "a1",
+        "label": "VALID",
+        "value": "Today"
+      }
+    ],
+    "backFields": [
+      {
+        "key": "b1",
+        "label": "Terms",
+        "value": "Membership is non-transferable. Cancellation requires 30 days written notice.",
+        "dataDetectorTypes": []
+      }
+    ]
+  },
+  "logoText": "Golden Travel Pass 706",
+  "barcodes": [
+    {
+      "format": "PKBarcodeFormatQR",
+      "message": "STUDIO-GUEST-4B",
+      "messageEncoding": "iso-8859-1",
+      "altText": "STUDIO-GUEST-4B"
+    }
+  ],
+  "webServiceURL": "https://example.invalid/passkit",
+  "authenticationToken": "0000000000000000"
+}
